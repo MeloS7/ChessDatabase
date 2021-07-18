@@ -1,0 +1,61 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.18"]
+[Round "-"]
+[White "underDogUpmc"]
+[Black "alebordig"]
+[Result "1/2-1/2"]
+[CurrentPosition "5k2/R7/p2p1p2/2pP1Np1/1pP3q1/1P6/P7/5RK1 w - -"]
+[Timezone "UTC"]
+[ECO "A16"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Anglo-Indian-Queens-Knight-Variation"]
+[UTCDate "2021.07.18"]
+[UTCTime "16:38:13"]
+[WhiteElo "1878"]
+[BlackElo "1912"]
+[TimeControl "180+2"]
+[Termination "Game drawn by repetition"]
+[StartTime "16:38:13"]
+[EndDate "2021.07.18"]
+[EndTime "16:47:04"]
+[Link "https://www.chess.com/game/live/20365233245"]
+
+1. c4 Nf6 2. Nc3 d6 3. g3 e5 4. Bg2 c6 5. d4 Nbd7 6. d5 c5 7. e4 Be7 8. Nge2 O-O
+9. O-O Ne8 10. g4? {MISTAKE (-0.45)} ({(+1.20) The best move was} 10. a4 Bf6 11.
+Bd2 g6 12. a5 Bg7 13. Qc2 b6 14. axb6 Qxb6 15. Rfb1 Rb8 16. Nd1 f5 17. b3 a6 18.
+Ba5 Qb7 19. exf5) 10... Bg5 {INACCURACY (+0.62)} ({(-0.45) The best move was}
+10... Nb6 11. Bf3 Nxc4 12. Ng3 Bg5 13. Bxg5 Qxg5 14. Be2 Nb6 15. Qc1 Qd8 16. a4
+Nd7 17. f3 a6 18. Nd1 b6 19. Qd2 Rb8 20. Ne3 b5 21. axb5) 11. h3 a6 12. Ng3 Rb8
+13. Kh2 b5 14. b3 b4 15. Nce2 Bxc1 16. Qxc1 f6 17. f4 exf4 18. Nxf4 Ne5 19. Qd2
+Nc7 20. Rad1 Qe7 21. Nf5 Bxf5? ± {MISTAKE (+1.64)} ({(0.00) The best move was}
+21... Qd8 22. Qe3 a5 23. Nd3 Nxd3 24. Qxd3 Bxf5 25. exf5 Re8 26. h4 Re5 27. Rde1
+Qe7 28. Re4 Ne8 29. Rfe1 Rxe4 30. Rxe4) 22. gxf5? = {MISTAKE (-0.40) Critical
+mistake.} ({(+1.64) The best move was} 22. exf5 a5 23. Ne6 Rf7 24. Rde1 Ne8 25.
+Be4 a4 26. Bb1 axb3 27. axb3 Ra8 28. Kg2 Ra3 29. Qd1 Qa7 30. h4) 22... g5
+{INACCURACY (+0.63)} ({(-0.40) The best move was} 22... Kh8 23. Ne6 Rg8 24. Qc2
+Ra8 25. Bf3 a5 26. Rd2 a4 27. bxa4 Ra7 28. Rg2 Nxe6 29. dxe6 Rga8 30. Bd1 Rxa4
+31. Qxa4 Rxa4 32. Bxa4 Nxc4) 23. fxg6 {INACCURACY (-0.37)} ({(+0.63) The best
+move was} 23. Ne6 Nxe6 24. dxe6 Rbd8 25. Bf3 Kg7 26. Rf2 a5 27. Bh5 Kh6 28. Qe2
+Rg8 29. Rd5 Kg7 30. Rg2) 23... hxg6 24. Bh1 Kf7 25. Rg1 Rh8 26. Qg2? ∓ {MISTAKE
+(-3.69)} ({(-1.09) The best move was} 26. Rg3 Rh6 27. Bf3 Rbh8 28. Rf1 Ne8 29.
+Qe2 Ng7 30. Bg4 g5 31. Ng2 Nh5 32. Bxh5+ Rxh5 33. Ne3 Ng6 34. Nf5 Qe5 35. Kg2
+Nf4+ 36. Rxf4 Qxf4) 26... g5 27. Rdf1? {MISTAKE (-5.33)} ({(-3.25) The best move
+was} 27. Qg3 Rh4 28. Nd3 Nxd3 29. Rxd3 Rbh8 30. Bg2 g4 31. Re3 Ne8 32. Rf1 Rxh3+
+33. Bxh3 Rxh3+ 34. Qxh3 gxh3 35. e5 dxe5 36. Rxh3 Qd6 37. Kg2 e4 38. Rg1) 27...
+Rbg8 28. Ne2 Qd7? {MISTAKE (-3.25)} ({(-4.86) The best move was} 28... g4 29.
+Nf4 g3+ 30. Qxg3 Rxg3 31. Rxg3 Rh4 32. Rfg1 Qf8 33. Ng6 Nxg6 34. Rxg6 Rf4 35.
+R6g3 Qh6 36. R3g2 Qh7 37. Re1 Rxe4 38. Rxe4 Qxe4) 29. Qg3 Rh5? {MISTAKE (-1.54)}
+({(-3.82) The best move was} 29... g4 30. h4 Ne8 31. Nf4 Rh6 32. Kg2 Rgh8 33.
+Kf2 Rxh4 34. Bg2 Ng7 35. Ke3 Qe7 36. Nd3 Nxd3 37. Kxd3 Rh3 38. Bxh3 Rxh3 39. Rf4
+Rxg3+ 40. Rxg3) 30. Bf3 {INACCURACY (-3.01)} ({(-1.54) The best move was} 30.
+Nf4 Rh4 31. Nd3 Rgh8 32. Nxe5+ dxe5 33. Bg2 Ne8 34. Rh1 Kg7 35. Rf5 Rf4 36. Rf1
+Rxf5 37. Rxf5 Nd6 38. Rf2 Rh4) 30... Nxf3+? = {MISTAKE (0.00)} ({(-3.01) The
+best move was} 30... Rh4 31. Bg2 Ne8 32. Rh1 Rgh8 33. Kg1 Ke7 34. Qf2 R4h6 35.
+Ng3 Ng7 36. Qe2 a5 37. Rf2) 31. Rxf3 Rgh8 32. Rgf1 Rxh3+ 33. Qxh3 Rxh3+
+{Critical move.} 34. Rxh3 Ne8 35. Rh7+ Ng7 36. Ng3 Qg4 37. Nf5 Qe2+ {Critical
+move.} 38. Kg1 Qxe4?? ± {BLUNDER (+14.75)} ({(0.00) The best move was} 38... Kf8
+39. Rxg7 Qg4+ 40. Kf2 Qf4+ 41. Kg2 Qg4+ 42. Kf2) 39. Rxg7+ Kf8 40. Ra7?? =
+{BLUNDER (0.00)} ({(+6.27) The best move was} 40. Rf7+ Kg8 41. Nh6+ Kh8 42.
+R7xf6 Qh4 43. R1f3 Qe4 44. Kf2 Qd4+ 45. Kg2 g4 46. Rf2 Qe4+ 47. Kg3 Qe1 48. Kxg4
+Kh7 49. Rf7+ Kh8 50. Kg5 Qc1+ 51. R7f4) 40... Qg4+ 41. Kh1 Qh3+ 42. Kg1 □ Qg4+
+{Critical move.} 43. Kh2 Qe2+ {Critical move.} 44. Kg1 Qg4+ (44... Qg4+) 1/2-1/2
