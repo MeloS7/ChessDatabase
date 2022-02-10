@@ -1,0 +1,62 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.10"]
+[Round "-"]
+[White "lauracros"]
+[Black "underDogUpmc"]
+[Result "1-0"]
+[CurrentPosition "8/4pk2/p2p1p2/1p1P1p2/3N1P2/1PP3K1/Pn6/1R3B1r b - -"]
+[Timezone "UTC"]
+[ECO "B70"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Fianchetto-Variation"]
+[UTCDate "2022.02.10"]
+[UTCTime "02:05:46"]
+[WhiteElo "1891"]
+[BlackElo "1991"]
+[TimeControl "180"]
+[Termination "lauracros won on time"]
+[StartTime "02:05:46"]
+[EndDate "2022.02.10"]
+[EndTime "02:11:10"]
+[Link "https://www.chess.com/game/live/38197482939"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Bg7 7. Bg2 Nc6 8. Nde2
+O-O 9. O-O a6 10. h3 Bd7 11. Nd5 Rc8 12. c3 Ne5 13. b3 b5 14. Be3 Nxd5 $2 $16
+{MISTAKE (+1.58)} ({(+0.10) The best move was} 14... Bc6 15. Rc1 Bb7 16. Bb6 Qe8
+17. Bd4 Ned7 18. c4 e6 19. Bxf6 Nxf6 20. Nxf6+ Bxf6 21. Qxd6 bxc4 22. Rxc4 Rxc4
+23. bxc4) 15. exd5 Bf5 $2 {MISTAKE (+3.78)} ({(+1.48) The best move was} 15... f5
+16. Rc1 Qa5 17. Qd2 Qa3 18. Nd4 Bf6 19. Rfe1 Rc7 20. f4 Nf7 21. Rc2 Re8 22. Nc6
+Rec8 23. Kh2 Bxc6 24. dxc6 Rxc6 25. Bxc6) 16. Bd4 $2 $12 {MISTAKE (+0.51) Critical
+mistake.} ({(+3.78) The best move was} 16. f4 Nc4 17. bxc4 Rxc4 18. Bd4 b4 19.
+Rc1 Bxd4+ 20. Nxd4 Rxc3 21. Nxf5 gxf5 22. Kh2 Qb6 23. Qh5 Qd4 24. Qxf5 Qd3 25.
+Qg5+ Qg6 26. Rfe1 Qxg5 27. fxg5) 16... Qd7 $2 $16 {MISTAKE (+3.48)} ({(+0.51) The
+best move was} 16... Bd3 17. Re1 Bxe2 18. Rxe2 Re8 19. Re3 Bh6 20. f4 Nd7 21.
+Bf3 Bg7 22. Bxg7 Kxg7 23. g4 h6 24. Qd4+ Nf6 25. Rae1 Qa5 26. a4) 17. Kh2 $2
+{MISTAKE (+1.32)} ({(+3.48) The best move was} 17. g4 Bxg4 18. hxg4 Qxg4 19. f4
+Nd7 20. Qd3 Rc5 21. Bxc5 dxc5 22. Qf3 Nf6 23. Rad1 Qxf3 24. Bxf3 Rd8 25. Kf2)
+17... h5 {INACCURACY (+2.63)} ({(+1.32) The best move was} 17... g5 18. f4 gxf4
+19. Nxf4 Ng6 20. Bxg7 Kxg7 21. Qd4+ f6 22. Rae1 Kh8 23. Ne6 Bxe6 24. Rxe6 Rg8)
+18. f4 {Critical move.} 18... Nd3 19. Bxg7 $2 $12 {MISTAKE (+0.76) Critical
+mistake.} ({(+3.33) The best move was} 19. g4 hxg4 20. hxg4 Nb2 21. Qd2 Bxg4 22.
+Qxb2 Bxe2 23. Qxe2 Bxd4 24. Bh3 f5 25. cxd4 Kg7 26. Rac1 Rxc1 27. Rxc1 Rh8 28.
+Re1) 19... Kxg7 20. g4 hxg4 {Critical move.} 21. hxg4 Rh8+ 22. Kg3 Nb2 $4 $16
+{BLUNDER (+6.82) Critical mistake.} ({(+1.00) The best move was} 22... g5 23.
+Rf3 gxf4+ 24. Nxf4 Ne5 25. gxf5 Qa7 26. Qd4 Qxd4 27. cxd4 Nxf3 28. Bxf3 Rc3 29.
+Ng2 Rc2 30. Re1 Kf8 31. f6 exf6 32. Ne3) 23. Qd4+ f6 24. gxf5 Qxf5 25. Qe4 $2
+{MISTAKE (+3.97)} ({(+6.48) The best move was} 25. Qe3 g5 26. Qxe7+ Kg8 27. Qe6+
+Qxe6 28. dxe6 Rc5 29. Be4 f5 30. Bc2 Rh6 31. Rab1 gxf4+ 32. Kxf4 Rxe6 33. Nd4
+Rg6 34. Bxf5 Rf6 35. Rxb2 Rxc3) 25... Qh5 $4 {BLUNDER (+12.86)} ({(+3.97) The
+best move was} 25... Rh3+ 26. Kf2 Qxe4 27. Bxe4 Rch8 28. Rh1 Nd3+ 29. Kg1 Rxh1+
+30. Bxh1 f5 31. Bg2 Rh4 32. Rf1 g5 33. fxg5 Rg4 34. Rf3 Ne1 35. Rg3 Rxg3 36.
+Nxg3 f4 37. Nh5+ Kg6 38. Nxf4+ Kxg5 39. Ne6+ Kf6) 26. Rh1 Qf5 $2 {MISTAKE
+(+16.36)} ({(+8.14) The best move was} 26... Qg4+ 27. Kf2 Kf7 28. Rab1 Rxh1 29.
+Rxh1 Nd1+ 30. Rxd1 Rh8 31. Qf3 Qc8 32. Qe3 Qc5 33. Kf3 Rh5 34. Qxc5 dxc5 35. Ng3
+Rh2 36. Ne4) 27. Qxf5 {INACCURACY (+6.44)} ({(+16.36) The best move was} 27.
+Qxe7+ Kg8 28. Rxh8+ Kxh8 29. Rh1+ Qh5 30. Qxf6+ Kg8 31. Qe6+ Kg7 32. Qd7+ Kf8
+33. Qxc8+ Ke7 34. Qe6+ Kd8 35. Qxd6+ Kc8 36. Qxa6+ Kd7 37. Qa7+ Kc8 38. d6)
+27... gxf5 28. Rxh8 Rxh8 29. Nd4 Kf7 30. Bf1 Rh1 {INACCURACY (+7.78)} ({(+5.94)
+The best move was} 30... Rc8 31. Nc6 e6 32. dxe6+ Kxe6 33. Nd4+ Kd5 34. Bg2+ Kc5
+35. Rb1 Nd3 36. Rd1 Rg8+ 37. Kf3 Nxf4 38. Bh1 Ng6 39. Ne6+ Kb6 40. Rxd6+ Kb7 41.
+Kf2+ Kc8 42. Rb6 f4 43. Bg2 f3 44. Rxa6 fxg2 45. Ra8+ Kd7 46. Rxg8) 31. Rb1 (31.
+Rb1 a5 32. Kg2 Rxf1 33. Rxf1 a4 34. Kf3 axb3 35. axb3 Nd3 36. b4 Nb2 37. Re1 Nc4
+38. Nxf5 Ke8 39. Ra1 Nb6 40. Ke4 Kd8) 1-0
